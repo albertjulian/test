@@ -15,3 +15,5 @@ Pada setiap iterasi, kita melakukan operasi push atau pop pada stack, yang memil
 Sehingga total kompleksitas kodingan ini adalah O(n).
 
 # Soal 3
+
+![Result](https://github.com/albertjulian/test/Soal_3.PNG?raw=true)
