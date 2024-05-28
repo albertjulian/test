@@ -1,10 +1,10 @@
 # Soal 1
 
-![Result](https://github.com/albertjulian/test/Soal_1.PNG?raw=true)
+![Result](https://github.com/albertjulian/test/blob/main/Soal_1.PNG)
 
 # Soal 2
 
-![Result](https://github.com/albertjulian/test/Soal_2.PNG?raw=true)
+![Result](https://github.com/albertjulian/test/blob/main/Soal_2.PNG)
 
 Kompleksitas kodingan ini adalah O(n), di mana n adalah panjang dari string expression.
 
@@ -16,4 +16,4 @@ Sehingga total kompleksitas kodingan ini adalah O(n).
 
 # Soal 3
 
-![Result](https://github.com/albertjulian/test/Soal_3.PNG?raw=true)
+![Result](https://github.com/albertjulian/test/blob/main/Soal_3.PNG)
